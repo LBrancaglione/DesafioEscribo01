@@ -6,7 +6,7 @@ Implementa uma função que receba um número inteiro positivo e retorna o somat
 Certifique-se de ter o Node.js e o npm instalados na sua máquina.
 
 ## Instalação
-1 - Clone este repositório: git clone https://github.com/seu-usuario/seu-projeto.git
+1 - Clone este repositório: git clone https://github.com/LBrancaglione/DesafioEscribo01.git
 2 - Navegue até o diretório do projeto: cd seu-projeto
 3 - Instale as dependências: npm install
 
